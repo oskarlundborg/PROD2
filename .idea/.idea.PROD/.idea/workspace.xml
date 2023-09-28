@@ -8,7 +8,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684c626e-d154-49e8-9ce4-f5f6d2837dbf" name="Changes" comment="" />
+    <list default="true" id="684c626e-d154-49e8-9ce4-f5f6d2837dbf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PROD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PROD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Sounds/car_sound.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Sounds/car_sound.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Props/MaterialSphere.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Props/MaterialSphere.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/0/UM/GQFLHRYCUFHQPU4VOBTWEQ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/0/UM/GQFLHRYCUFHQPU4VOBTWEQ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/1/KN/R15KW1WZE3TXGRSWU9QT6X.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/1/KN/R15KW1WZE3TXGRSWU9QT6X.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/3/28/OZSB2932MZO36KJD2PS3VA.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/3/28/OZSB2932MZO36KJD2PS3VA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/4/9V/B5EHPXJIVVIZ53ZH69OTOE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/4/9V/B5EHPXJIVVIZ53ZH69OTOE.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/4/OX/J04O3L3UWTIVSG39RM6Q81.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/4/OX/J04O3L3UWTIVSG39RM6Q81.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/6/3B/P8P8B6OJC07QRVVD2GWK67.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/6/3B/P8P8B6OJC07QRVVD2GWK67.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/6/V4/KUVAC2GOTQ99JY85ZJJ6LJ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/6/V4/KUVAC2GOTQ99JY85ZJJ6LJ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/7/DJ/79ZYYXVFP7KJ2G488A9PXA.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/7/DJ/79ZYYXVFP7KJ2G488A9PXA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/9/09/ICKOYVBOKRXACHNIJACRG8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/9/09/ICKOYVBOKRXACHNIJACRG8.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/9/2A/FLRM3VYJBXJ6QX0AMJ02IW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/9/2A/FLRM3VYJBXJ6QX0AMJ02IW.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/A/3T/U8XHT8JW1KQ72B8O0YTFEP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/A/3T/U8XHT8JW1KQ72B8O0YTFEP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/A/CO/73C4P5S85SMO3464QP3DHY.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/A/CO/73C4P5S85SMO3464QP3DHY.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/B/C0/36HWCO0A7IVKCA60ZT998E.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/B/C0/36HWCO0A7IVKCA60ZT998E.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/C/5J/ZCK18CMIEC86N8QKPYRSFA.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/C/5J/ZCK18CMIEC86N8QKPYRSFA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/C/XJ/4S0VPT7QSO8XOWRIQN0QM2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/C/XJ/4S0VPT7QSO8XOWRIQN0QM2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/D/VH/SC9LWC0KX4Q84RBE7VBU06.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_L/D/VH/SC9LWC0KX4Q84RBE7VBU06.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PROD/PRODGameMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PROD/PRODGameMode.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +62,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "UnrealLinkOptionsId",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -178,6 +203,7 @@
       <workItem from="1695652650006" duration="5010000" />
       <workItem from="1695769949832" duration="2483000" />
       <workItem from="1695808155536" duration="914000" />
+      <workItem from="1695886442544" duration="3057000" />
     </task>
     <servers />
   </component>
@@ -187,5 +213,9 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

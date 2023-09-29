@@ -10,6 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="684c626e-d154-49e8-9ce4-f5f6d2837dbf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PROD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PROD/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Enemy/BP_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemy/BP_Enemy.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter_Alexander.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter_Alexander.uasset" afterDir="false" />
@@ -19,6 +20,8 @@
       <change beforePath="$PROJECT_DIR$/Content/Sounds/Win_Loss/CarDriveAwaySequence.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Sounds/Win_Loss/CarDriveAwaySequence.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Sounds/Win_Loss/CarDriveAwaySequence_1_1_0.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Sounds/Win_Loss/CarDriveAwaySequence_1_1_0.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_XL/B/AQ/D0U4B81KJLIBEOM3FKJJB1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/LevelAlexander_XL/B/AQ/D0U4B81KJLIBEOM3FKJJB1.uasset" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -53,9 +57,29 @@
       "C:\\Users\\Kosmonavt\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
       "C:\\Users\\Kosmonavt\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
       "C:\\Users\\Kosmonavt\\AppData\\Local\\Symbols\\src"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;UnrealLinkOptionsId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\alkr8077\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\alkr8077\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\alkr8077\\AppData\\Local\\Symbols\\src&quot;
+>>>>>>> Stashed changes
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.PROD">
     <configuration name="PROD" type="CppProject" factoryName="C++ Project">
       <configuration_1>

@@ -12,4 +12,3 @@ APRODGameMode::APRODGameMode()
 	DefaultPawnClass = PlayerPawnClassFinder.Class;
 
 }
--

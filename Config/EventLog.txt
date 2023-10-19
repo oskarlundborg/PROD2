@@ -1,0 +1,5 @@
+EventLog
+2023.10.19-18.15.32, 2.432, Player Died.
+2023.10.19-18.16.01, 2.483 Seconds Elapsed, Player Died.
+2023.10.19-18.41.24, 2.268 Seconds Elapsed, Player Died.
+2023.10.19-18.42.17, 18.225 Seconds Elapsed, Player Died.

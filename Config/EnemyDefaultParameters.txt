@@ -1,0 +1,3 @@
+Speed = 623
+
+Sight Radius i AIC_Enemy PawnSensing = 1300

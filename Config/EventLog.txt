@@ -1,0 +1,3 @@
+EventLog
+17:23:11 Playtime in seconds:5.457 Died.
+19 okt. 2023 17:31:06 Playtime in seconds:3.463 Died.

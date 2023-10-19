@@ -15,16 +15,16 @@ UReadWriteFilesComponent::UReadWriteFilesComponent()
 
 void UReadWriteFilesComponent::ReadFile(FString FileName)
 {
-	ParametersPath = FPaths::ProjectConfigDir();
-	ParametersPath.Append(FileName);
+	ParamPath = FPaths::ProjectConfigDir();
+	ParamPath.Append(FileName);
 
 	
 
 	IPlatformFile& FileManager = FPlatformFileManager::Get().GetPlatformFile();
 
-	if (FileManager.FileExists(*ParametersPath))
+	if (FileManager.FileExists(*ParamPath))
 	{
-		if (FFileHelper::LoadFileToString(Parameters, *ParametersPath, FFileHelper::EHashOptions::None))
+		if (FFileHelper::LoadFileToString(Parameters, *ParamPath, FFileHelper::EHashOptions::None))
 		{
 			UE_LOG(LogTemp, Warning, TEXT("FileManipulation: Text From File: %s"), *Parameters);
 
@@ -52,6 +52,22 @@ void UReadWriteFilesComponent::ReadFile(FString FileName)
 		ParameterOne = "1";
 		ParameterTwo = "1";
 	}
+}
+
+void UReadWriteFilesComponent::WriteToFile(FString FileName, FString Event)
+{
+	LogPath = FPaths::ProjectConfigDir();
+	LogPath.Append(FileName);
+
+	IPlatformFile& FileManager = FPlatformFileManager::Get().GetPlatformFile();
+
+	if (FileManager.FileExists(*LogPath))
+	{
+		FFileHelper::LoadFileToString(EventLog, *LogPath, FFileHelper::EHashOptions::None);
+		EventLog.Append(LINE_TERMINATOR + Event);
+		FFileHelper::SaveStringToFile(EventLog, *LogPath);
+	}
+	
 }
 
 // Called when the game starts

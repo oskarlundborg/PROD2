@@ -16,8 +16,10 @@ public:
 	// Sets default values for this component's properties
 	UReadWriteFilesComponent();
 
-	FString ParametersPath;
+	FString ParamPath;
+	FString LogPath;
 	FString Parameters;
+	FString EventLog;
 
 	UPROPERTY(BlueprintReadOnly)
 	FString ParameterOne;
@@ -26,6 +28,9 @@ public:
 
 	UFUNCTION(BlueprintCallable)
 	void ReadFile(FString FileName);
+
+	UFUNCTION(BlueprintCallable)
+	void WriteToFile(FString FileName, FString Event);
 
 protected:
 	// Called when the game starts

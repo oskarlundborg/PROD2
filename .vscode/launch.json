@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch PROD (Debug)",
+			"request": "launch",
+			"program": "C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "PROD Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch PROD (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "PROD Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch PROD (Development)",
+			"request": "launch",
+			"program": "C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "PROD Win64 Development Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch PROD (Test)",
+			"request": "launch",
+			"program": "C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "PROD Win64 Test Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch PROD (Shipping)",
+			"request": "launch",
+			"program": "C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "PROD Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch PRODEditor (Debug)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "PRODEditor Win64 Debug Build",
+			"args": [
+				"C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\PROD.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch PRODEditor (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "PRODEditor Win64 DebugGame Build",
+			"args": [
+				"C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\PROD.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch PRODEditor (Development)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "PRODEditor Win64 Development Build",
+			"args": [
+				"C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\PROD.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\hugge\\Documents\\GitHub\\PROD2\\PROD.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.2"
+		}
+	]
+}

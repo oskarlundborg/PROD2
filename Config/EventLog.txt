@@ -3,3 +3,9 @@ EventLog
 2023.10.19-18.16.01, 2.483 Seconds Elapsed, Player Died.
 2023.10.19-18.41.24, 2.268 Seconds Elapsed, Player Died.
 2023.10.19-18.42.17, 18.225 Seconds Elapsed, Player Died.
+2023.10.22-21.47.55, 26.445999 Seconds Elapsed, Player Died.
+2023.10.22-23.04.26, 62.778999 Seconds Elapsed, Player Died.
+2023.10.22-23.08.50, 60.249001 Seconds Elapsed, Player Died.
+2023.10.22-23.09.45, 8.955 Seconds Elapsed, Player Died.
+2023.10.22-23.10.19, 8.375 Seconds Elapsed, Player Died.
+2023.10.22-23.12.44, 9.915 Seconds Elapsed, Player Died.

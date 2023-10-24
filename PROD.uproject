@@ -24,6 +24,10 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	]
 }

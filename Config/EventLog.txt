@@ -36,3 +36,22 @@ EventLog
 2023.10.24-21.38.06, 27.323999 Seconds Elapsed, Player got to the river
 2023.10.24-21.38.50, 20.271 Seconds Elapsed, Player got to the river
 2023.10.24-22.10.54, 122.813004 Seconds Elapsed, Player got to the river
+2023.10.25-00.53.18, 26.422001 Seconds Elapsed, Player found the car and won.
+2023.10.25-01.42.58, 16.450001 Seconds Elapsed, Player found the car and won.
+2023.10.25-01.53.28, 9.539 Seconds Elapsed, Player Died.
+2023.10.25-01.57.44, 16.962999 Seconds Elapsed, Player found the car and won.
+2023.10.25-01.59.24, 26.981001 Seconds Elapsed, Player got to the river
+2023.10.25-01.59.58, 60.716999 Seconds Elapsed, Player found the car and won.
+2023.10.25-02.02.41, 37.201 Seconds Elapsed, Player got to the river
+2023.10.25-02.06.02, 29.274 Seconds Elapsed, Player got to the river
+2023.10.25-02.09.10, 83.070999 Seconds Elapsed, Player got to the river
+2023.10.25-02.09.40, 113.275002 Seconds Elapsed, Player found the car and won.
+2023.10.25-02.10.13, 18.712999 Seconds Elapsed, Player got to the river
+2023.10.25-02.10.45, 50.216999 Seconds Elapsed, Player found the car and won.
+2023.10.25-02.12.39, 30.164 Seconds Elapsed, Player got to the river
+2023.10.25-02.12.52, 43.248001 Seconds Elapsed, Player found the car and won.
+2023.10.25-02.21.15, 31.603001 Seconds Elapsed, Player got to the river
+2023.10.25-02.21.53, 16.615 Seconds Elapsed, Player got to the river
+2023.10.25-02.22.25, 48.455002 Seconds Elapsed, Player found the car and won.
+2023.10.25-02.25.43, 31.197001 Seconds Elapsed, Player got to the river
+2023.10.25-02.26.42, 89.555 Seconds Elapsed, Player found the car and won.

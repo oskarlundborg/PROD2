@@ -1,3 +1,6 @@
 To skip any cutscene: Spacebar
 Movement: W A S D
+Turning left and right: Mouse Movement
 Open Sound Menu: F
+Open Pause Menu: P
+Activate Car keys: E

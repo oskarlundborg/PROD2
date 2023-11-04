@@ -1,0 +1,3 @@
+To skip any cutscene: Spacebar
+Movement: W A S D
+Open Sound Menu: F

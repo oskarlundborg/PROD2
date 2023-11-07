@@ -1,1 +1,2 @@
-1,1
+Haptics True = 1 False = 0 :1
+Voice Lines True = 1 False = 0 :1

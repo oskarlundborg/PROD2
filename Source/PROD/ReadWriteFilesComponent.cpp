@@ -27,13 +27,13 @@ void UReadWriteFilesComponent::ReadFile(FString FileName)
 		if (FFileHelper::LoadFileToString(Parameters, *ParamPath, FFileHelper::EHashOptions::None))
 		{
 			UE_LOG(LogTemp, Warning, TEXT("FileManipulation: Text From File: %s"), *Parameters);
+			Parameters.ParseIntoArrayLines(Lines);
 
-			FString Split = ",";
-			Parameters.Split( Split, &ParameterOne, &ParameterTwo, ESearchCase::Type::IgnoreCase);
+			Lines[0].Split(TEXT(":"),&Text, &ParameterOne);
+			Lines[1].Split(TEXT(":"),&Text, &ParameterTwo);
+			
 			UE_LOG(LogTemp, Warning, TEXT("Parameter One: %s"), *ParameterOne);
 			UE_LOG(LogTemp, Warning, TEXT("Parameter two: %s"), *ParameterTwo);
-			
-			
 			
 		}
 

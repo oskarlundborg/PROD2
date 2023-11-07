@@ -21,6 +21,10 @@ public:
 	FString Parameters;
 	FString EventLog;
 
+	FString Text;
+
+	TArray<FString> Lines;
+
 	UPROPERTY(BlueprintReadOnly)
 	FString ParameterOne;
 	UPROPERTY(BlueprintReadOnly)

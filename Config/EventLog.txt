@@ -95,3 +95,4 @@ EventLog
 2023.10.26-14.24.52, 119.570999 Seconds Elapsed, Player found the car and won.
 2023.10.26-14.24.54, 121.054001 Seconds Elapsed, Player Died.
 2023.10.26-14.27.32, 18.381001 Seconds Elapsed, Player got to the river
+2023.11.07-15.38.28, 27.309999 Seconds Elapsed, Player Died.

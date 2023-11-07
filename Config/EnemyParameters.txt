@@ -1,1 +1,2 @@
-623,1300
+Enemy Speed Default = 623, Current:623
+Enemy Sight range Default = 1300, Current:1300
